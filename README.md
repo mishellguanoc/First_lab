@@ -4,8 +4,7 @@
 Mishell Guano
 
 ## Course
-Mobile Applications / Software Engineering
-
+Mobile Applications 
 ## Description
 This repository contains the first laboratory of the Mobile Applications course.
 The objective of this lab is to set up the development environment, understand
